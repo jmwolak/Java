@@ -1,0 +1,50 @@
+.root {
+	
+	-fx-background-color: linear-gradient(#5f9ea0, #2A5058);	
+	
+}
+
+#button {
+	
+	-fx-font-weight: bold;
+	-fx-font-size: 14px;
+	-fx-background-color: linear-gradient(#ffdab9, #f4a460);
+	-fx-font-weight: bold;
+	-fx-border-color: #ffa07a;
+	-fx-border-radius: 5;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+#radio-button{
+	
+	-fx-font-weight: bold;
+	-fx-font-size: 12px;
+}
+
+#quickPicks {
+	 
+	-fx-font-weight: bold;
+	-fx-font-size: 14px;
+	-fx-stroke: #ffebcd;
+	-fx-stroke-width: 0.12;
+}
+
+.combo-box {
+	
+	-fx-color: #dcdcdc;
+}
+
+.text-area{
+	
+	-fx-background-color: #dcdcdc;
+}
+
+#lottery {
+	
+	-fx-fill: linear-gradient(#ffdab9, #f4a460);
+	-fx-font-size: 20.5px;
+	-fx-font-weight: bold;
+	-fx-stroke: black;
+	
+}
+
